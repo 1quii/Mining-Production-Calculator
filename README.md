@@ -79,13 +79,13 @@ These calculations assume identical trucks and cycle times across the fleet.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mining-production-calculator.git
+git clone https://github.com/1quii//Mining-Production-Calculator.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd mining-production-calculator
+cd Mining-Production-Calculator
 ```
 
 Run the application:
